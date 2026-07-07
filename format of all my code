@@ -1,0 +1,62 @@
+Here is a clean, comprehensive template you can copy and paste into your note-taking app (like Notion, Obsidian, or a markdown file) every time you solve a new or challenging problem.
+
+It is designed to capture the core logic and track your progress across your three focus languages.
+
+---
+
+```markdown
+# [Problem Name]
+
+**Platform:** [e.g., HackerRank, LeetCode]
+**Pattern/Topic:** [e.g., Two Pointers, Dynamic Programming, BFS]
+**Difficulty:** [Easy / Medium / Hard]
+**Date Completed:** [YYYY-MM-DD]
+
+---
+
+### 🧠 Core Concept
+
+**Problem Summary (In My Own Words):**
+> [Write a 1-2 sentence breakdown of what the problem is actually asking you to do. Strip away the fluff from the problem description.]
+
+**The Approach / Intuition:**
+*   [Step 1 of the logic]
+*   [Step 2 of the logic]
+*   [Step 3 of the logic]
+
+**Complexity Analysis:**
+*   **Time Complexity:** O(...) - [Briefly explain why]
+*   **Space Complexity:** O(...) - [Briefly explain why]
+
+---
+
+### 💻 Implementations
+
+**C Snippet / Key Logic:**
+[Focus on pointer management or manual memory allocation used here]
+
+**Java Snippet / Key Logic:**
+[Focus on the Collections Framework classes or OOP structure used here]
+
+**Python Snippet / Key Logic:**
+[Focus on Pythonic shortcuts or built-in modules used here]
+
+---
+
+### ⚠️ Edge Cases & Gotchas
+
+*   **Edge Cases to Remember:** 
+    *   [e.g., What if the array is empty?]
+    *   [e.g., What if all numbers are negative?]
+*   **My Mistakes (The "Bug Tracker"):** 
+    *   [e.g., Hit a Time Limit Exceeded (TLE) because I used a nested loop instead of a hash map.]
+    *   [e.g., Forgot to update the pointers in my while loop, causing an infinite loop.]
+
+---
+
+### 🔗 Connections
+
+*   **Similar Problems:** [List 1-2 related problems to reinforce the pattern]
+*   **Helpful Resources:** [Link to any YouTube videos or articles that helped you understand the optimal solution]
+
+```
