@@ -1,0 +1,63 @@
+DSA-Mastery/
+├── README.md                           # Master index and study tracker
+├── 00_The_Bug_Tracker/
+│   └── gotchas_and_errors.md           # Running list of language-specific errors (e.g., C pointers, Python references)
+│
+├── 01_Complexity_and_Math/
+│   ├── Big_O_Analysis/                 # Time and Space complexity notation
+│   ├── Bit_Manipulation/               # XOR, shifting, masking
+│   └── Number_Theory/                  # Primes, Sieve of Eratosthenes, GCD/LCM
+│
+├── 02_Core_Data_Structures/
+│   ├── Arrays_and_Strings/
+│   ├── Linked_Lists/                   # Singly, Doubly, and Circular
+│   ├── Stacks/                         # Array and Linked List implementations
+│   └── Queues/                         # Circular Queues, Deques
+│
+├── 03_Algorithmic_Patterns/
+│   ├── Two_Pointers/
+│   ├── Sliding_Window/
+│   ├── Fast_and_Slow_Pointers/         # Cycle detection (Floyd's algorithm)
+│   └── Prefix_Sum/
+│
+├── 04_Sorting_and_Searching/
+│   ├── Binary_Search/                  # Standard search and search-on-answer space
+│   ├── O_N2_Sorts/                     # Bubble, Insertion, Selection
+│   └── O_NlogN_Sorts/                  # Merge, Quick, Heap
+│
+├── 05_Hashing/
+│   ├── Hash_Maps_and_Sets/
+│   └── Collision_Resolution/           # Chaining vs. Open Addressing (crucial for C)
+│
+├── 06_Trees/
+│   ├── Binary_Trees/                   # Traversals (Inorder, Preorder, Postorder, Level)
+│   └── Binary_Search_Trees/            # Insertion, Deletion, Validation
+│
+├── 07_Heaps_and_Priority_Queues/
+│   ├── Min_and_Max_Heaps/              # Manual heapify algorithms
+│   └── Top_K_Elements/                 # Kth largest/smallest problems
+│
+├── 08_Advanced_Trees/                  # **Your Intermediate-to-Mastery Jump**
+│   ├── AVL_Trees/                      # Self-balancing logic and rotations
+│   ├── Segment_Trees/                  # Range queries and lazy propagation
+│   ├── Fenwick_Trees_BIT/              # Binary Indexed Trees
+│   └── Tries/                          # Prefix trees for string manipulation
+│
+├── 09_Graphs/                          # **High-Value Interview/Hackathon Topic**
+│   ├── Graph_Representations/          # Adjacency Matrix vs. Adjacency List
+│   ├── Traversals_BFS_DFS/
+│   ├── Disjoint_Set_Union/             # Union by rank, path compression
+│   ├── Shortest_Paths/                 # Dijkstra's, Bellman-Ford
+│   ├── Minimum_Spanning_Trees/         # Kruskal's, Prim's
+│   └── Topological_Sort/               # Dependency resolution
+│
+├── 10_Dynamic_Programming/             # **The Ultimate Algorithmic Hurdle**
+│   ├── 1D_DP/                          # Fibonacci, Climbing Stairs, 1D Memoization
+│   ├── 2D_DP/                          # Grid paths, 0/1 Knapsack
+│   ├── DP_on_Strings/                  # Longest Common Subsequence, Edit Distance
+│   └── DP_on_Trees/
+│
+├── 11_Advanced_Algorithms/
+│   ├── Greedy_Algorithms/              # Activity selection, Huffman coding
+│   ├── Backtracking/                   # N-Queens, Sudoku solvers, combinations
+│   └── String_Matching/                # KMP Algorithm, Rabin-Karp
